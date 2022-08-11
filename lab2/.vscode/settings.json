@@ -1,0 +1,20 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "cSpell.words": [
+        "acter",
+        "CAHLLENGE",
+        "cprintf",
+        "cputch",
+        "cputs",
+        "increace",
+        "kerninfo",
+        "LGDT",
+        "lidt",
+        "LLDT",
+        "movsl",
+        "padc",
+        "putch",
+        "sprintputch"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
+}
